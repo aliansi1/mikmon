@@ -1,0 +1,11 @@
+{
+    "salids": [ { "id": "777" , "uid": "1" } ,
+	            { "id": "888" , "uid": "1" } ,
+	            { "id": "999" , "uid": "1" } 
+	          ],
+"saledets":  [
+{"sales_Id2":"777","IT_ID":"11","Unit":"111","QTY_Out":"22","Price_Out":"333"},
+{"sales_Id2":"888","IT_ID":"11","Unit":"111","QTY_Out":"22","Price_Out":"333"},
+{"sales_Id2":"999","IT_ID":"11","Unit":"111","QTY_Out":"22","Price_Out":"333"}
+             ]
+}
